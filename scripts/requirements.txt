@@ -1,0 +1,11 @@
+# Example-script dependencies.
+#
+# business_days.py uses only the Python standard library — nothing to install.
+# tie_out.py uses only the Python standard library.
+# make_census_pivot.py needs openpyxl to build the data workbook, and a
+#   headless LibreOffice ("soffice") on PATH to generate the live PivotTables.
+#   LibreOffice is installed at the OS level, not via pip:
+#     - Debian/Ubuntu:  sudo apt-get install libreoffice-calc python3-uno
+#     - macOS (brew):   brew install --cask libreoffice
+#
+openpyxl>=3.1,<4.0

@@ -1,0 +1,19 @@
+Employee Id,Last Name,First Name,Job Title,Department,Country,Status,Hire Date,Annual Salary
+1001,Rivera,Sam,Software Engineer,Engineering,United States,Active,2022-03-14,118000.00
+1002,Chen,Alex,Senior Software Engineer,Engineering,United States,Active,2021-07-01,142000.00
+1003,Okafor,Dana,Product Designer,Product,United States,Active,2023-01-09,104000.00
+1004,Nguyen,Jordan,Engineering Manager,Engineering,Canada,Active,2020-11-16,156000.00
+1005,Patel,Riya,Data Analyst,Analytics,United States,Active,2023-06-05,96000.00
+1006,Silva,Marco,QA Engineer,Engineering,Canada,Active,2022-09-12,101000.00
+1007,Johnson,Taylor,Account Executive,Sales,United States,Active,2021-02-22,88000.00
+1008,Haddad,Leila,Sales Manager,Sales,United States,Active,2019-05-30,124000.00
+1009,Brown,Casey,Customer Success Rep,Customer Success,United Kingdom,Active,2023-08-21,72000.00
+1010,Kim,Morgan,Accountant,Finance,United States,Active,2022-04-18,89000.00
+1011,Garcia,Pat,Controller,Finance,United States,Active,2018-10-02,148000.00
+1012,Mueller,Robin,Marketing Specialist,Marketing,United Kingdom,Active,2023-03-27,79000.00
+1013,Ferreira,Sky,Software Engineer,Engineering,United States,Leave of Absence,2021-12-06,116000.00
+1014,Adeyemi,Noa,Recruiter,People Ops,Canada,Active,2022-07-25,84000.00
+1015,Costa,Devin,Data Engineer,Engineering,United States,Active,2020-08-10,135000.00
+1016,Wagner,Emery,Product Manager,Product,United States,Active,2021-09-14,129000.00
+1017,Lopez,Sasha,Support Engineer,Customer Success,Canada,Active,2023-02-13,91000.00
+1018,Ibrahim,Quinn,Finance Analyst,Finance,United Kingdom,Active,2022-11-28,86000.00
